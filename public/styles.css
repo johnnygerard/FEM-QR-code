@@ -1,3 +1,42 @@
+html {
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: var(--light-gray);
+    display: grid;
+    height: 100vh;
+    margin: 0 2em;
+}
+
+.card {
+    padding: 1em;
+    margin: auto;
+    border-radius: 16px;
+    text-align: center;
+    background-color: white;
+}
+
+.qr-code {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.title {
+    font-size: 1.5em;
+    color: var(--dark-blue);
+}
+
+.subtitle {
+    color: var(--grayish-blue);
+    padding: 0 1em;
+    margin-bottom: 2em;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
