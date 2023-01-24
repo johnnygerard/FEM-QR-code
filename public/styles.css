@@ -10,15 +10,16 @@ body {
     background-color: var(--light-gray);
     display: grid;
     height: 100vh;
-    margin: 0 2em;
+    margin: 0 2rem;
 }
 
 .card {
-    padding: 1em;
+    padding: 1rem;
     margin: auto;
     border-radius: 16px;
     text-align: center;
     background-color: white;
+    max-width: 300px;
 }
 
 .qr-code {
@@ -27,14 +28,14 @@ body {
 }
 
 .title {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     color: var(--dark-blue);
 }
 
 .subtitle {
     color: var(--grayish-blue);
-    padding: 0 1em;
-    margin-bottom: 2em;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
 }
 
 .attribution {
