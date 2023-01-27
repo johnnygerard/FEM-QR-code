@@ -6,7 +6,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 This first project was made using plain HTML and CSS.
 
 ## Links
- - [Live version](https://zealous-tree-09d846110.2.azurestaticapps.net/) hosted with [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/)
+ - [Live version](https://fem-qr-code-jgerard.pages.dev/) hosted with [Cloudflare Pages](https://pages.cloudflare.com/)
  - [Solution](https://www.frontendmentor.io/solutions/qr-code-component-2KSbVgwh3f)
 
 ## Screenshot
