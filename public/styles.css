@@ -41,6 +41,10 @@ body {
 .attribution {
     font-size: 11px;
     text-align: center;
+    position: fixed;
+    bottom: 1rem;
+    left: 0;
+    right: 0;
 }
 
 .attribution a {
