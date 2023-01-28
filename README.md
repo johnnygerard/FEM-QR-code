@@ -7,7 +7,7 @@ This first project was made using plain HTML and CSS.
 
 ## Links
  - [Live version](https://fem-qr-code-jgerard.pages.dev/) hosted with [Cloudflare Pages](https://pages.cloudflare.com/)
- - [Solution](https://www.frontendmentor.io/solutions/qr-code-component-2KSbVgwh3f)
+ - [Solution](https://www.frontendmentor.io/solutions/plain-html-and-css-febnoPlzgq)
 
 ## Screenshot
 ![screenshot](./screenshot.png)
